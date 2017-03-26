@@ -1,2 +1,3 @@
 Aquí se guardaran los datos que se almacenaran en la base
 de datos
+Se crearan primero las tablas y despues se normalizaran
