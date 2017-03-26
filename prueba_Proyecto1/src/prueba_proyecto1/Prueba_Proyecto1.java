@@ -17,6 +17,7 @@ public class Prueba_Proyecto1 {
     public static void main(String[] args) {
         System.out.println ("Hola mundo en Java");
         System.out.println ("Segundo hola en java");
+          System.out.println ("Hola mundo en C");
         
     }
     
